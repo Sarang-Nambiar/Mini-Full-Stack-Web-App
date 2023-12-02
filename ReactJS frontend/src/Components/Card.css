@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 1rem;
+}
+
+.create-btn{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card-container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 2rem;
+    height: 60vh;
+    color: black;
+}
+
+.btn-flex{
+    display: flex;
+    gap:5px;
+    justify-content: center;
+}
